@@ -1,10 +1,5 @@
 # FileForge 🔨
 
-![Build Status](https://img.shields.io/github/workflow/status/nidaime-two/FileForge/CI)
-![Test Coverage](https://img.shields.io/coveralls/github/nidaime-two/FileForge)
-![License](https://img.shields.io/github/license/nidaime-two/FileForge)
-![PyPI Version](https://img.shields.io/pypi/v/fileforge)
-
 **FileForge** é uma poderosa ferramenta de **conversão e manipulação de arquivos** que oferece uma maneira fácil e rápida de converter documentos e mesclar PDFs. Através de uma interface gráfica simples e intuitiva, você pode:
 
 - Converter **PDFs** para **imagens PNG**.
@@ -86,10 +81,6 @@
     ```
 
 5. **Crie um Pull Request**.
-
-### 📜 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
 
