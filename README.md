@@ -1,6 +1,6 @@
 # FileForge 🔨
 
-**FileForge** é uma poderosa ferramenta de **conversão e manipulação de arquivos** que oferece uma maneira fácil e rápida de converter documentos e mesclar PDFs. Através de uma interface gráfica simples e intuitiva, você pode:
+**FileForge** é uma  ferramenta de **conversão e manipulação de arquivos** que oferece uma maneira fácil e rápida de converter documentos e mesclar PDFs. Através de uma interface gráfica simples e intuitiva, você pode:
 
 - Converter **PDFs** para **imagens PNG**.
 - Converter **PDFs** para **documentos DOCX**.
