@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual (Python)
+venv/
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos do editor/IDE (exemplo: VSCode, PyCharm, etc)
+.vscode/
+.idea/
+
+# Ignorar arquivos de backup do sistema
+*.swp
+*~
